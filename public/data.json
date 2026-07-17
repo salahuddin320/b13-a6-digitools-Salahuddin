@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional ATS-friendly resumes in minutes.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF",
+      "Unlimited downloads"
+    ],
+    "icon": "https://i.ibb.co.com/k6vnnm1G/writing-2327400-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Website Kit",
+    "description": "Build a modern personal portfolio with responsive templates.",
+    "price": 29.99,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Responsive design",
+      "Dark mode",
+      "SEO optimized",
+      "Easy customization"
+    ],
+    "icon": "https://i.ibb.co.com/MkqKGhXh/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Invoice Generator",
+    "description": "Generate professional invoices for clients instantly.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Unlimited invoices",
+      "PDF export",
+      "Tax calculation",
+      "Custom branding"
+    ],
+    "icon": "https://i.ibb.co.com/jvNk1QVF/camera-8775444-1.png"
+  },
+  {
+    "id": 4,
+    "name": "Social Media Planner",
+    "description": "Plan and schedule social media content effortlessly.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Content calendar",
+      "Post scheduling",
+      "Analytics dashboard",
+      "Team collaboration"
+    ],
+    "icon": "https://i.ibb.co.com/C3MQcb8W/operation.png"
+  },
+  {
+    "id": 5,
+    "name": "Logo Design Pack",
+    "description": "Access premium logo templates for your business.",
+    "price": 39.99,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "500+ logo templates",
+      "Editable SVG files",
+      "Commercial license",
+      "High resolution"
+    ],
+    "icon": "https://i.ibb.co.com/6cfdVc59/portfolio.png"
+  },
+  {
+    "id": 6,
+    "name": "Cloud Storage Plus",
+    "description": "Secure cloud storage for your important files.",
+    "price": 99.99,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "1TB storage",
+      "File sharing",
+      "Automatic backup",
+      "End-to-end encryption"
+    ],
+    "icon": "https://i.ibb.co.com/PvVDDx9v/social-media.png"
+  }
+]
