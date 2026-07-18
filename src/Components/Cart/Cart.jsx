@@ -1,5 +1,7 @@
 // import React from 'react';
 
+import { toast } from "react-toastify";
+
 const Cart = ({ addCart, setAddCart }) => {
     // console.log(addCart);
 
@@ -8,10 +10,12 @@ const Cart = ({ addCart, setAddCart }) => {
         const filteredTool = addCart.filter((deleteTool) => tool.name !== deleteTool.name);
         // console.log(filteredTool);
         setAddCart(filteredTool)
+        toast("Remove your product from the cart")
 
     }
     const handleResetButton =()=>{
         setAddCart([])
+        toast("Remove all the products from the cart")
     }
 
 
